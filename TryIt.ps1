@@ -1,0 +1,1 @@
+.\DoAzureFunctionDeploy.ps1 TestAFunc-RG TestFunctionIdea https://github.com/dfinke/TestFunc.git
